@@ -1,4 +1,8 @@
-# THINK DB設計
+# THINK
+
+# discription
+https://gyazo.com/0bbc43fc86385d0edbb8007e117d6fd4
+
 ## usersテーブル
 |Column|Type|Options|
 |------|----|-------|
